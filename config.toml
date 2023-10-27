@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://phenomenal-sunburst-52af09.netlify.app/"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"
